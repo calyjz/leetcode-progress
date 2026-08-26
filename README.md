@@ -12,10 +12,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/calyjz/leetcode-progress/tree/master/0438-find-all-anagrams-in-a-string) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/calyjz/leetcode-progress/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Sliding Window
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/calyjz/leetcode-progress/tree/master/0438-find-all-anagrams-in-a-string) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/calyjz/leetcode-progress/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Array
 |  |
 | ------- |
